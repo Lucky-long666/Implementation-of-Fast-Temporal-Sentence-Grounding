@@ -68,9 +68,3 @@ Once training is finished, you can use the following commands to inference on th
 python -m src.main --exp_path /path/to/training/output --config_name soonet_mad --device_id 0 --mode test
 ```
 
-## 🙏🏻 Acknowledgement
-
-Our code references the following projects. Many thanks to the authors.
-
-* [Swin-Transformer-1D](https://github.com/meraks/Swin-Transformer-1D.git)
-* [Tensorflow-Ranking](https://github.com/tensorflow/ranking.git)
