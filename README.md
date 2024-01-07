@@ -1,10 +1,9 @@
-# Scanning Only Once: An End-to-end Framework for Fast Temporal Grounding in Long Videos
+# A Framework for Fast Temporal Grounding in Long Videos
 
 SOONet is an end-to-end framework for temporal grounding in long videos. It manages to model an hours-long video with one-time network execution, alleviating the inefficiency issue caused by the sliding window pipeline. 
 
-![Framework](figs/framework.png)
 
-## 
+
 ## 🚀 Preparation
 
 ### 1. Install dependencies
