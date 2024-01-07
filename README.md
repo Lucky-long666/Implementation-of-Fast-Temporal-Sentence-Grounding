@@ -1,4 +1,4 @@
-# A Framework for Fast Temporal Grounding in Long Videos
+# Implementation of Fast Temporal Sentence Grounding
 ## 🚀 Preparation
 
 ### 1. Install dependencies
