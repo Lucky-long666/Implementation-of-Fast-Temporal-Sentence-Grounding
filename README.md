@@ -1,4 +1,8 @@
 # Implementation of Fast Temporal Sentence Grounding
+
+## About
+This project implements an effective and efficient framework for the fast temporal sentence grounding (TSG) task. TSG aims to localize a target segment in an untrimmed video semantically according to a given sentence query. Conventional TSG methods follow the top-down or bottom-up strategy with a time-consuming framework, which is inefficient and inflexible for a large number of untrimmed videos in real-world applications. This project presents an end-to-end framework that models hours-long videos in a single network execution. Specially, the framework is structured in a coarse-to-fine manner, where context knowledge is extracted from non-overlapping video clips (anchors), followed by the supplementation of highly responsive anchors to the query for detailed content knowledge. Therefore, the introduced approach enhances efficiency and enables the capture of long-range temporal correlations in overlong videos for more precise video grounding.
+
 ## 🚀 Preparation
 
 ### 1. Install dependencies
